@@ -1,5 +1,7 @@
 # BERN-Application
 TODO 3.0 with Blockchain, Express.js, React.js, and Node.js:  Elevate task management with blockchain security, Express.js efficiency, React.js interactivity, and Node.js scalability for a cutting-edge user experience.
+
+
 BERN Project is a decentralized application (dApp) that utilizes the Ethereum blockchain for transparency and security. It provides a user-friendly interface built with React.js for interacting with the blockchain, while the server side is powered by Node.js and Express.
 
 ## Table of Contents
