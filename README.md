@@ -21,7 +21,7 @@ Follow the steps below to set up the BERN Project on your local machine:
 
 1. Clone the repository: `git clone https://github.com/mtouseeb0008/BERN-Application.git`
 2. Navigate to the project folder: `cd BERN-APP`
-3. Navigate to the api folder: `cd api`
+3. Navigate to the `api` folder: `cd api`
 4. Install server dependencies: `npm install`
 5. Navigate to the `client` folder: `cd client`
 6. Install client dependencies: `npm install`
